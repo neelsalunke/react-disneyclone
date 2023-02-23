@@ -1,4 +1,7 @@
+You can visit the deployed website at :- 
+https://disneyplus-clone-c828f.web.app/
 
+To run in development mode 
 In the project directory, you can run:
 
 ### `npm start`
